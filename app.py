@@ -19,3 +19,5 @@ while run:
     FRAME_WINDOW.image(sketch_cap)
 else:
     st.write('Stopped')
+    
+    
